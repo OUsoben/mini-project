@@ -79,7 +79,7 @@ const Footer = () => {
             style={{ fontWeight: "bolder" }}
             className="text-light text-weight-bold"
           >
-            Keo
+            Ben
           </span>
         </p>
       </div>
