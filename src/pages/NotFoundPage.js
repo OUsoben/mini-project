@@ -10,7 +10,8 @@ const NotFoundPage = () => {
             <div className="text-side   w-50">
                 <h1> Page Not Found </h1>
                 <p> Seems like you have lost your ways here <br /> Please get back to home page  </p>
-                <button className='btn btn-success'  > Home Page </button>
+                <button className='btn btn-success rouned'>Home Page </button>
+                <img className='img-fluid' src="https://lux-case.dk/media/catalog/product/cache/473e2072a4aa8dcff30c6c0e89195f31/l/c/lcw01-94-101-4.jpg" alt="This is the Apple Watch" />
             </div>
 
 
