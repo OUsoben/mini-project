@@ -23,7 +23,7 @@ const ProductsDetail = () => {
     return (
         <div>
             <h1> Product Details {id} </h1>
-            <h2>Helllo</h2>
+            
 
         </div>
     )
